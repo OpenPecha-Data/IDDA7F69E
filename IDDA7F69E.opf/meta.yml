@@ -1,0 +1,25 @@
+id: IDDA7F69E
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-SK-02
+  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།དེབ་ཕྲེང་གཉིས་པ།
+  author: མཛད་པ་པོ། ཏཱ་ར་ནཱ་ཐ། ཙིཏྟ། མུག་མཆོག་པ།
+  authors: &id001
+  - མཛད་པ་པོ། ཏཱ་ར་ནཱ་ཐ། ཙིཏྟ། མུག་མཆོག་པ།
+  sku: RDI-SK-02
+  cover: RDI-SK-02.jpeg
+  volume: {}
+ebook_metadata:
+  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།དེབ་ཕྲེང་གཉིས་པ།
+  authors: *id001
+  sku: RDI-SK-02
+  cover: RDI-SK-02.jpeg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
