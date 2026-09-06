@@ -17,6 +17,7 @@ ebook_metadata:
   cover: RDI-SK-02.jpeg
 layers:
 - Author
+- BookNumber
 - BookTitle
 - Chapter
 - Citation
